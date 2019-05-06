@@ -1,0 +1,9 @@
+C:\Users\Basil-rdp\source\repos\VasilyTest\VasilyTest.DTO\bin\Debug\netcoreapp2.1\VasilyTest.DTO.deps.json
+C:\Users\Basil-rdp\source\repos\VasilyTest\VasilyTest.DTO\bin\Debug\netcoreapp2.1\VasilyTest.DTO.dll
+C:\Users\Basil-rdp\source\repos\VasilyTest\VasilyTest.DTO\bin\Debug\netcoreapp2.1\VasilyTest.DTO.pdb
+C:\Users\Basil-rdp\source\repos\VasilyTest\VasilyTest.DTO\obj\Debug\netcoreapp2.1\VasilyTest.DTO.csprojAssemblyReference.cache
+C:\Users\Basil-rdp\source\repos\VasilyTest\VasilyTest.DTO\obj\Debug\netcoreapp2.1\VasilyTest.DTO.csproj.CoreCompileInputs.cache
+C:\Users\Basil-rdp\source\repos\VasilyTest\VasilyTest.DTO\obj\Debug\netcoreapp2.1\VasilyTest.DTO.AssemblyInfoInputs.cache
+C:\Users\Basil-rdp\source\repos\VasilyTest\VasilyTest.DTO\obj\Debug\netcoreapp2.1\VasilyTest.DTO.AssemblyInfo.cs
+C:\Users\Basil-rdp\source\repos\VasilyTest\VasilyTest.DTO\obj\Debug\netcoreapp2.1\VasilyTest.DTO.dll
+C:\Users\Basil-rdp\source\repos\VasilyTest\VasilyTest.DTO\obj\Debug\netcoreapp2.1\VasilyTest.DTO.pdb

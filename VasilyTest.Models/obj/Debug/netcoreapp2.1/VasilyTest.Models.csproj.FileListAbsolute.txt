@@ -1,0 +1,9 @@
+C:\Users\Basil-rdp\source\repos\VasilyTest\VasilyTest.Models\bin\Debug\netcoreapp2.1\VasilyTest.Models.deps.json
+C:\Users\Basil-rdp\source\repos\VasilyTest\VasilyTest.Models\bin\Debug\netcoreapp2.1\VasilyTest.Models.dll
+C:\Users\Basil-rdp\source\repos\VasilyTest\VasilyTest.Models\bin\Debug\netcoreapp2.1\VasilyTest.Models.pdb
+C:\Users\Basil-rdp\source\repos\VasilyTest\VasilyTest.Models\obj\Debug\netcoreapp2.1\VasilyTest.Models.csprojAssemblyReference.cache
+C:\Users\Basil-rdp\source\repos\VasilyTest\VasilyTest.Models\obj\Debug\netcoreapp2.1\VasilyTest.Models.csproj.CoreCompileInputs.cache
+C:\Users\Basil-rdp\source\repos\VasilyTest\VasilyTest.Models\obj\Debug\netcoreapp2.1\VasilyTest.Models.AssemblyInfoInputs.cache
+C:\Users\Basil-rdp\source\repos\VasilyTest\VasilyTest.Models\obj\Debug\netcoreapp2.1\VasilyTest.Models.AssemblyInfo.cs
+C:\Users\Basil-rdp\source\repos\VasilyTest\VasilyTest.Models\obj\Debug\netcoreapp2.1\VasilyTest.Models.dll
+C:\Users\Basil-rdp\source\repos\VasilyTest\VasilyTest.Models\obj\Debug\netcoreapp2.1\VasilyTest.Models.pdb

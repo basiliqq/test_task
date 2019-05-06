@@ -1,0 +1,16 @@
+C:\Users\Basil-rdp\source\repos\VasilyTest\VasilyTest.DataAccess\bin\Debug\netcoreapp2.1\VasilyTest.DataAccess.deps.json
+C:\Users\Basil-rdp\source\repos\VasilyTest\VasilyTest.DataAccess\bin\Debug\netcoreapp2.1\VasilyTest.DataAccess.dll
+C:\Users\Basil-rdp\source\repos\VasilyTest\VasilyTest.DataAccess\obj\Debug\netcoreapp2.1\VasilyTest.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\Basil-rdp\source\repos\VasilyTest\VasilyTest.DataAccess\obj\Debug\netcoreapp2.1\VasilyTest.DataAccess.AssemblyInfoInputs.cache
+C:\Users\Basil-rdp\source\repos\VasilyTest\VasilyTest.DataAccess\obj\Debug\netcoreapp2.1\VasilyTest.DataAccess.AssemblyInfo.cs
+C:\Users\Basil-rdp\source\repos\VasilyTest\VasilyTest.DataAccess\bin\Debug\netcoreapp2.1\VasilyTest.DataAccess.runtimeconfig.json
+C:\Users\Basil-rdp\source\repos\VasilyTest\VasilyTest.DataAccess\bin\Debug\netcoreapp2.1\VasilyTest.DataAccess.runtimeconfig.dev.json
+C:\Users\Basil-rdp\source\repos\VasilyTest\VasilyTest.DataAccess\bin\Debug\netcoreapp2.1\VasilyTest.DataAccess.pdb
+C:\Users\Basil-rdp\source\repos\VasilyTest\VasilyTest.DataAccess\bin\Debug\netcoreapp2.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\Basil-rdp\source\repos\VasilyTest\VasilyTest.DataAccess\bin\Debug\netcoreapp2.1\VasilyTest.Models.dll
+C:\Users\Basil-rdp\source\repos\VasilyTest\VasilyTest.DataAccess\bin\Debug\netcoreapp2.1\VasilyTest.Models.pdb
+C:\Users\Basil-rdp\source\repos\VasilyTest\VasilyTest.DataAccess\bin\Debug\netcoreapp2.1\Microsoft.EntityFrameworkCore.xml
+C:\Users\Basil-rdp\source\repos\VasilyTest\VasilyTest.DataAccess\obj\Debug\netcoreapp2.1\VasilyTest.DataAccess.csprojAssemblyReference.cache
+C:\Users\Basil-rdp\source\repos\VasilyTest\VasilyTest.DataAccess\obj\Debug\netcoreapp2.1\VasilyTest.DataAccess.csproj.CopyComplete
+C:\Users\Basil-rdp\source\repos\VasilyTest\VasilyTest.DataAccess\obj\Debug\netcoreapp2.1\VasilyTest.DataAccess.dll
+C:\Users\Basil-rdp\source\repos\VasilyTest\VasilyTest.DataAccess\obj\Debug\netcoreapp2.1\VasilyTest.DataAccess.pdb
